@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently studying a Master Degree in Science Computing ...
+🌱 I’m currently studying a Master Degree in Science Computing
 
 <!--
 **Angelinis/angelinis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
