@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hey there!</h2>
 
-<p align="justify">  
+<p align="center">  
 I am Angelo a <strong>full-stack developer</strong> and a postgraduate student. Happy to connect with you.
 </p>
 
@@ -11,7 +11,7 @@ I am Angelo a <strong>full-stack developer</strong> and a postgraduate student. 
    
 <h2 align="center">🔭 My skills!</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,emotion,styledcomponents,figma,heroku,mysql,postgres,react,vite,ruby,rails,py,vscode,git,github,discord,blender,unity,godot&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,emotion,styledcomponents,figma,heroku,mysql,postgres,react,vite,ruby,rails,py,vscode,git,github,blender,unity,godot&perline=10)](https://skillicons.dev)
    
 <p align="justify">
    <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=angelinis&theme=dark&hide_border=false"/>
