@@ -4,13 +4,14 @@
 I am Angelo a <strong>full-stack developer</strong> and a postgraduate student. Happy to connect with you.
 </p>
 
-- 🌱 I’m currently studying a Master degree in Science Computing
+<div align="center">
+ 🌱 I’m currently studying a Master degree in Science Computing
+</div>
 
+   
 <h2 align="center">🔭 My skills!</h2>
 
-<div align="center">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,emotion,styledcomponents,figma,heroku,mysql,postgres,react,vite,ruby,rails,py,vscode,git,github,discord,blender,unity,godot)](https://skillicons.dev)
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,emotion,styledcomponents,figma,heroku,mysql,postgres,react,vite,ruby,rails,py,vscode,git,github,discord,blender,unity,godot&perline=5)](https://skillicons.dev)
    
 <p align="justify">
    <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=angelinis&theme=dark&hide_border=false"/>
