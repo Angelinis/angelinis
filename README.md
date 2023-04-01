@@ -8,6 +8,8 @@ I am Angelo a <strong>full-stack developer</strong> and a postgraduate student. 
  🌱 I’m currently studying a Master degree in Science Computing
 </div>
 
+<br/>
+<br/>
    
 <h2 align="center">🔭 My skills!</h2>
 
@@ -16,6 +18,10 @@ I am Angelo a <strong>full-stack developer</strong> and a postgraduate student. 
     <img src="https://skillicons.dev/icons?i=js,html,css,emotion,styledcomponents,figma,heroku,mysql,postgres,react,vite,ruby,rails,py,vscode,git,github,blender,unity,godot&perline=10" />
   </a>
 </p>
+ 
+ 
+<br/>
+<br/>
  
 <h2 align="center">📫 Contact me</h2>
 
