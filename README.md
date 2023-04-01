@@ -10,8 +10,14 @@ I am Angelo a <strong>full-stack developer</strong> and a postgraduate student. 
 
    
 <h2 align="center">🔭 My skills!</h2>
-<div style="display:flex justify-content:center">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,emotion,styledcomponents,figma,heroku,mysql,postgres,react,vite,ruby,rails,py,vscode,git,github,blender,unity,godot&perline=10)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,emotion,styledcomponents,figma,heroku,mysql,postgres,react,vite,ruby,rails,py,vscode,git,github,blender,unity,godot&perline=101" />
+  </a>
+</p>
+ 
+[![My Skills](https://skillicons.dev/icons?i)](https://skillicons.dev)
 </div>   
 <p align="center">
    <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=angelinis&theme=dark&hide_border=false"/>
