@@ -3,7 +3,7 @@
 🌱 I’m currently studying a Master Degree in Science Computing
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,emotion,styledcomponents,figma,heroku,mysql,postgres,react,vite,ruby,rails,py,vscode,git,github,discord,blender,unity,godot)](https://skillicons.dev)
 
 <!--
 **Angelinis/angelinis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
