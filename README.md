@@ -2,6 +2,10 @@
 
 🌱 I’m currently studying a Master Degree in Science Computing
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby, python, unity, godot)](https://skillicons.dev)
+
+
 <!--
 **Angelinis/angelinis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
