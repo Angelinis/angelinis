@@ -17,10 +17,10 @@ Hello! I’m Angelo, a full-stack developer and postgraduate student pursuing a 
   </a>
 </p>
 
-<h2 align="center">🤔 Libraries and Frameworks!</h2>
+<h2 align="center">🤔 Libraries, Frameworks and Tools!</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=emotion,heroku,styledcomponents,figma,vscode,git,github,blender,unity,godot&perline=10" />
+    <img src="https://skillicons.dev/icons?i=emotion,heroku,styledcomponents,figma,vscode,git,github&perline=10" />
   </a>
 </p>
  
