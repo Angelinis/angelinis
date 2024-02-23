@@ -1,14 +1,8 @@
 <h2 align="center">👋 Hey there!</h2>
 
 <p align="center">  
-I am Angelo a <strong>full-stack developer</strong> and a postgraduate student. I manage spanish, english and portuguese languages. 
-I like to learn new technologies. Lately I have been learning to use and develop with Meta Quest 2.  
- Happy to connect with you.
+Hello! I’m Angelo, a full-stack developer and postgraduate student pursuing a master’s degree in Computer Science. Fluent in Spanish, English, and Portuguese, I have a passion for learning new technologies. Recently, I’ve been diving into Meta Quest 2, exploring its development and usage. Excited to connect with you!
 </p>
-
-<div align="center">
- 🌱 I’m currently studying a Master degree in Science Computing
-</div>
 
 <br/>
 <br/>
