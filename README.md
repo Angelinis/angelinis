@@ -1,6 +1,6 @@
-<h2 align="center">👋 Hey there!</h2>
+<h2 align="center">👋 About me</h2>
 
-<div style="max-width: 400px; margin: 0 auto;">
+<div style="max-width: 300px; margin: 0 auto;">
 <p align="center">  
 Hello! I’m Angelo, a full-stack developer and postgraduate student pursuing a master’s degree in Computer Science. Fluent in Spanish, English, and Portuguese, I have a passion for learning new technologies. Recently, I’ve been diving into Meta Quest 2, exploring its development and usage. Excited to connect with you!
 </p>
