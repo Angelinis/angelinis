@@ -31,7 +31,7 @@ Hello! I’m Angelo, a full-stack developer and postgraduate student pursuing a 
 <h2 align="center">📫 Contact me</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/angelo-coronado-m/" target="_blank">
+<a href="https://www.linkedin.com/in/angelo-coronado-m/" onclick="window.open(this.href,'_blank'); return false;">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
 </a>  
 <a href="mailto:angmogollon@gmail.com" target="_blank">
