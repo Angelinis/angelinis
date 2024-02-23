@@ -15,7 +15,9 @@ I am Angelo a <strong>full-stack developer</strong> and a postgraduate student. 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,emotion,styledcomponents,figma,heroku,mysql,postgres,react,vite,ruby,rails,py,vscode,git,github,blender,unity,godot&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,heroku,mysql,postgres,react,vite,ruby,rails,py,blender,unity,godot&perline=10" />
+    <img src="https://skillicons.dev/icons?i=emotion,styledcomponents,figma,vscode,git,github,blender,unity,godot&perline=10" />
+
   </a>
 </p>
  
