@@ -1,7 +1,9 @@
 <h2 align="center">👋 Hey there!</h2>
 
 <p align="center">  
-I am Angelo a <strong>full-stack developer</strong> and a postgraduate student. Happy to connect with you.
+I am Angelo a <strong>full-stack developer</strong> and a postgraduate student. I manage spanish, english and portuguese languages. 
+I like to learn new technologies. Lately I have been learning to use and develop with Meta Quest 2.  
+ Happy to connect with you.
 </p>
 
 <div align="center">
