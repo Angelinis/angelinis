@@ -11,13 +11,21 @@ I am Angelo a <strong>full-stack developer</strong> and a postgraduate student. 
 <br/>
 <br/>
    
-<h2 align="center">🔭 My skills!</h2>
+<h2 align="center">🔭 Languages!</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,mysql,postgres,react,vite,ruby,rails,py,blender,unity,godot&perline=10" />
     <img src="https://skillicons.dev/icons?i=emotion,heroku,styledcomponents,figma,vscode,git,github,blender,unity,godot&perline=10" />
 
+  </a>
+</p>
+
+<h2 align="center">🔭 Libraries and Frameworks!</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,mysql,postgres,react,vite,ruby,rails,py,blender,unity,godot&perline=10" />
+    <img src="https://skillicons.dev/icons?i=emotion,heroku,styledcomponents,figma,vscode,git,github,blender,unity,godot&perline=10" />
   </a>
 </p>
  
