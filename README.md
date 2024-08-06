@@ -2,7 +2,7 @@
 
 <div style="width: 300px; margin: 0 auto;">
 <p align="center">  
-Hello! I’m Angelo, a full-stack developer and postgraduate student pursuing a master’s degree in Computer Science. Fluent in Spanish, English, and Portuguese, I have a passion for learning new technologies. Recently, I’ve been diving into Meta Quest 2, exploring its development and usage. Excited to connect with you!
+Hello! I’m Angelo, a virtual reality and full-stack developer. Currently I am pursuing a master’s degree in Computer Science. Fluent in Spanish, English, and Portuguese, I have a passion for learning new technologies. Excited to connect with you!
 </p>
 </div>
 
