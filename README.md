@@ -3,7 +3,7 @@
 
 ## About Me:
 
-- 👨‍💻 Pursuing a master degree in Computer Science.
+- 👨‍💻 Have a master degree in Computer Science.
 - 🌱 Currently, I am a virtual reality and full-stack developer. Additionally, I am involved in scientific research with a focus on virtual reality development and accessibility.
 
 </p>
