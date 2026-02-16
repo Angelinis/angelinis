@@ -8,7 +8,7 @@
 
 </p>
 
-📫 How to reach me: [angmogollon@gmail.com](mailto:angelocoronado@discente.ufg.br)
+📫 How to reach me: [angelocoronado@discente.ufg.br](mailto:angelocoronado@discente.ufg.br)
 
 ## Skills and Interests:
 
